@@ -11,7 +11,7 @@
 $ deno install --unstable -A -n vite-app https://raw.githubusercontent.com/Lingtin/deno-vite-cli/master/mod.ts
 
 ```
-### 1. Cli start
+### 1. Cli run
 ``` bash
 
 $ vite-app
@@ -28,7 +28,7 @@ $ Create template name? | name
 
 ``` bash
 
-$ Select the type of template created？
+$ Select the type of template created?
 * vue
 * react
 * react-ts
