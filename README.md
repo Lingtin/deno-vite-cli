@@ -6,6 +6,6 @@
 
 ``` bash
 
-deno install --unstable -allow-net -n vite mod.ts
+deno install --unstable -allow-net -n vite https://raw.githubusercontent.com/Lingtin/deno-vite-cli/master/mod.ts
 
 ```
