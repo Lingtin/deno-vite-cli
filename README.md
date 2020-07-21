@@ -1,7 +1,5 @@
 # deno-vite-cli / learning program
 
-#### 使用Deno创建的一个Vite模板下载器 ，从 https://github.com/vitejs/create-vite-app
-
 #### A Vite template downloader created using Deno ，from https://github.com/vitejs/create-vite-app
 
 ### 0. Install it using deno
