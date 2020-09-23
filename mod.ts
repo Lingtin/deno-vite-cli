@@ -1,4 +1,3 @@
-#!/usr/bin/env deno
 import { Select, Input } from 'https://deno.land/x/cliffy/prompt.ts';
 import { download } from "https://deno.land/x/download/mod.ts";
 
